@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="JobSearchProject" targetName="SQLiteCpp" />
+      <config projectName="JobSearchProject" targetName="untitled" />
+      <config projectName="JobSearchProject" targetName="SQLiteCpp_cpplint" />
+      <config projectName="JobSearchProject" targetName="sqlite3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e355c8a-fd03-483e-a2d1-34a7d3f39353" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableCreation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TableCreation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/authentication.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/candidate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidate.h" beforeDir="false" afterPath="$PROJECT_DIR$/candidate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/employer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/menus.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.4" />
+  </component>
+  <component name="ProjectId" id="2clfVMEmPSnv64EAWYFMRUScm4Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/hdani/CLionProjects/Job-search-project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.untitled">
+    <configuration name="SQLiteCpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JobSearchProject" TARGET_NAME="SQLiteCpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLiteCpp_cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JobSearchProject" TARGET_NAME="SQLiteCpp_cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sqlite3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JobSearchProject" TARGET_NAME="sqlite3" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JobSearchProject" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="JobSearchProject" RUN_TARGET_NAME="untitled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.untitled" />
+      <item itemvalue="CMake Application.SQLiteCpp" />
+      <item itemvalue="CMake Application.SQLiteCpp_cpplint" />
+      <item itemvalue="CMake Application.sqlite3" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e355c8a-fd03-483e-a2d1-34a7d3f39353" name="Changes" comment="" />
+      <created>1708691108771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708691108771</updated>
+      <workItem from="1708691110609" duration="148000" />
+      <workItem from="1708691305706" duration="6921000" />
+      <workItem from="1708699000799" duration="55017000" />
+      <workItem from="1709049068126" duration="258000" />
+      <workItem from="1709049346733" duration="62000" />
+      <workItem from="1709049436066" duration="55000" />
+      <workItem from="1709049534431" duration="74088000" />
+      <workItem from="1709236113143" duration="48707000" />
+      <workItem from="1709488737988" duration="11543000" />
+      <workItem from="1709562176427" duration="909000" />
+      <workItem from="1709884146714" duration="19971000" />
+      <workItem from="1710667186956" duration="510000" />
+      <workItem from="1711109419606" duration="4015000" />
+      <workItem from="1711537760177" duration="3725000" />
+      <workItem from="1711615522738" duration="45291000" />
+      <workItem from="1712426532730" duration="10450000" />
+      <workItem from="1714037590961" duration="612000" />
+      <workItem from="1715019732425" duration="7000" />
+      <workItem from="1716135727004" duration="502000" />
+      <workItem from="1718807952978" duration="639000" />
+      <workItem from="1719143878812" duration="585000" />
+      <workItem from="1721911482413" duration="625000" />
+      <workItem from="1728916615797" duration="36000" />
+      <workItem from="1729186746033" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
